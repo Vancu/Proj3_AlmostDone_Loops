@@ -163,18 +163,18 @@ def main():
 #    s.runTime(40);
 
 # Test out Project 3
-    s.testServer(9, 80);
-    s.runTime(40);
-    s.testServer(5, 80);
-    s.runTime(40);
-    s.testServer(4, 60);
-    s.runTime(40);
-    s.testServer(9, 81);
-    s.runTime(40);
+#    s.testServer(9, 80);
+#    s.runTime(40);
+#    s.testServer(5, 80);
+#    s.runTime(40);
+#    s.testServer(4, 60);
+#   s.runTime(40);
+#    s.testServer(9, 81);
+#    s.runTime(40);
     s.testServer(9, 82);
     s.runTime(40);
-    s.testServer(9, 83);
-    s.runTime(40);
+#    s.testServer(9, 83);
+#    s.runTime(40);
     s.testClient(3, 9, 70, 82, 255);
     s.runTime(50);
 #    s.testClient(3, 9, 71, 83, 128);
